@@ -20,3 +20,5 @@ Using `GitHub Pages` publish the website and use `docs` folder to be used for pu
 ### #5
 You can do more pages if you are done with the first 3 pages.  
 
+
+### Pages created are signup page,landing page,Customer Serivce
